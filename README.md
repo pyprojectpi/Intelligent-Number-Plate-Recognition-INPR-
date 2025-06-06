@@ -36,5 +36,5 @@ This project performs automatic vehicle number plate recognition (ANPR) using YO
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/vehicle-number-plate-recognition.git
+git clone https://github.com/pyprojectpi/Intelligent-Number-Plate-Recognition-INPR-
 cd vehicle-number-plate-recognition
